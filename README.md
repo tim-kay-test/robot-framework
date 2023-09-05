@@ -15,7 +15,7 @@
 
     See: https://chromedriver.chromium.org/downloads
 
-## Creating Test Case
+## Test Cases
 Scenario 1: Verify Cart Checkout
 
 Scenario 2: Verify Add all product and remove product
